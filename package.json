@@ -1,0 +1,26 @@
+{
+  "name": "base-ts",
+  "version": "1.0.0",
+  "description": "Ok",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanFPL/tryTypeScript.git"
+  },
+  "author": "Roman Franko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanFPL/tryTypeScript/issues"
+  },
+  "homepage": "https://github.com/RomanFPL/tryTypeScript#readme",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "ts-node": "^10.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.1"
+  }
+}
